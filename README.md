@@ -2,4 +2,4 @@
 
 [eShopOnContainers Wiki 中文版](https://github.com/buker2012/eShopOnContainers-CN-Wiki/wiki)
 
-个人翻译的 [eShopOnContainers Wiki](https://github.com/dotnet-architecture/eShopOnContainers/wiki) 中文版本（持续翻译中……），有任何问题请在 Issues 提出。
+[eShopOnContainers Wiki](https://github.com/dotnet-architecture/eShopOnContainers/wiki) 中文版本（持续翻译中……），有任何问题请在 Issues 提出。
